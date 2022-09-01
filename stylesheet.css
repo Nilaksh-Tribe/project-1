@@ -1,12 +1,27 @@
+
+.Secondcontainer{display: inline-block;}
+
 .Bowlimage{
+
     margin:250 auto 250 auto;
 
+    height: 500px;
+    width: 800px;
 
 }
 
+
+.head{ height: auto;  width: auto;}
+.mask{height: auto;  width: auto;}
+.socks{height: auto;  width: auto;}
+
+
+
+
+
 .Thirdcontainer {
   background-color: #4AB7A9;
-    height: 500px;
+    height: 600px;
 
     padding: 100px 30px;
 width: 100%;
@@ -15,12 +30,13 @@ width: fullscreen;
 
 
 }
-.Flower{ width: 25%; height: auto;
+.Flower{ width: 35%; height: auto;
 
   float: right;
 
-      width: 260px;margin-right: 0px;
+      width: 300px;margin-right: 0px;
 }
+.Roll{height: auto;  width: auto;}
 
 
   a{
@@ -30,5 +46,5 @@ width: fullscreen;
 
      img {
        width: 100%;
-       display: block;
+       display: inline-block;
      }
